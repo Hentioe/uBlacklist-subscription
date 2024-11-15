@@ -1,18 +1,27 @@
+# 营销号（标题党、洗稿等低质或错误内容）
 *://*.sohu.com/*
 *://*.sina.cn/*
 *://*.163.com/*
 *://*.douyin.com/*
 *://*.toutiao.com/*
-*://*.taobao.com/*
-*://*.1688.com/*
+*://new.qq.com/*
+*://news.qq.com/*
+*://cloud.tencent.com/developer/article/*
+# CSDN
 *://*.csdnimg.cn/*
 /csdn\.(com|net)/
 /gitcode\.(com|net|host)/
-*://new.qq.com/*
-*://news.qq.com/*
+# 电商平台产品
+*://*.taobao.com/*
+*://*.1688.com/*
 *://www.jd.com/*
 *://m.jd.com/*
 *://*.jd.hk/*
 *://i-search.jd.com/*
-*://cloud.tencent.com/developer/article/*
-
+# 抄袭（复制/镜像/同步搬运原创者内容）
+*://*.iii80.com/*
+*://*.iii80.cc/*
+*://i80.free.fr/*
+*://iii80.free.fr/*
+*://kknews.cc/*
+*://read01.com/*
