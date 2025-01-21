@@ -4,7 +4,7 @@
 *://*.163.com/*
 *://*.douyin.com/*
 *://www.doubao.com/*
-*://*.tiktok.com
+*://*.tiktok.com/*
 *://*.toutiao.com/*
 *://new.qq.com/*
 *://news.qq.com/*
