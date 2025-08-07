@@ -8,7 +8,8 @@
 *://*.toutiao.com/*
 *://new.qq.com/*
 *://news.qq.com/*
-*://cloud.tencent.com/developer/article/*
+*://cloud.tencent.com/developer/*
+*://cloud.tencent.cn/developer/*
 # CSDN
 *://*.csdnimg.cn/*
 /csdn\.(com|net)/
