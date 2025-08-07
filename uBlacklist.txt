@@ -10,6 +10,7 @@
 *://news.qq.com/*
 *://cloud.tencent.com/developer/*
 *://cloud.tencent.cn/developer/*
+*://www.showapi.com/news/*
 # CSDN
 *://*.csdnimg.cn/*
 /csdn\.(com|net)/
