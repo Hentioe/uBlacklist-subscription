@@ -20,6 +20,7 @@
 *://*.1688.com/*
 *://www.jd.com/*
 *://m.jd.com/*
+*://so.m.jd.com/*
 *://*.jd.hk/*
 *://i-search.jd.com/*
 # 抄袭（复制/镜像/同步搬运原创者内容）
