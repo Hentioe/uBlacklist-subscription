@@ -1,3 +1,7 @@
+# CSDN
+*://*.csdnimg.cn/*
+/csdn\.(com|net)/
+/gitcode\.(com|net|host)/
 # 营销号（标题党、洗稿等低质或错误内容）
 *://*.sohu.com/*
 *://*.sina.cn/*
@@ -11,10 +15,6 @@
 *://cloud.tencent.com/developer/*
 *://cloud.tencent.cn/developer/*
 *://www.showapi.com/news/*
-# CSDN
-*://*.csdnimg.cn/*
-/csdn\.(com|net)/
-/gitcode\.(com|net|host)/
 # 电商平台产品
 *://*.taobao.com/*
 *://*.1688.com/*
@@ -31,3 +31,7 @@
 *://kknews.cc/*
 *://read01.com/*
 *://shrimpskin.com/*
+# AI 生成
+*://*.jimowang.com/*
+*://docs.pingcode.com/*
+*://*.worktile.com/kb/*
