@@ -35,3 +35,4 @@
 *://*.jimowang.com/*
 *://docs.pingcode.com/*
 *://*.worktile.com/kb/*
+*://*.anzhuoe.net/*
