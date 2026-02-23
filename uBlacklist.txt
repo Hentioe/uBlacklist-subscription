@@ -36,3 +36,5 @@
 *://docs.pingcode.com/*
 *://*.worktile.com/kb/*
 *://*.anzhuoe.net/*
+# 站内搜索（套娃）
+*://search.bilibili.com/*
